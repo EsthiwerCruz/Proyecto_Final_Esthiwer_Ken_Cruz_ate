@@ -38,6 +38,8 @@ Enlace streamlit Cloud:
 
 https://proyectofinalesthiwerkencruzate-hc8bjontqcb6wkym5xea7w.streamlit.app/ 
 
+
+
 Imágenes de la app 
 - Portada
 <img width="1219" height="607" alt="image" src="https://github.com/user-attachments/assets/97e69d27-22eb-4505-9bfa-40093a39cb41" />
