@@ -35,6 +35,16 @@ Matplotlib
 Streamlit
 
 Imágenes de la app 
-
+- Portada
 <img width="1219" height="607" alt="image" src="https://github.com/user-attachments/assets/97e69d27-22eb-4505-9bfa-40093a39cb41" />
+- Carga del dataset 
+<img width="1252" height="291" alt="image" src="https://github.com/user-attachments/assets/40681a24-c194-47f9-95b9-79f4edbaa884" />
+- EDA
+<img width="1212" height="591" alt="image" src="https://github.com/user-attachments/assets/fb332088-f244-4cf3-a432-4d9d50ba42e5" />
+- Conclusiones
+<img width="1217" height="475" alt="image" src="https://github.com/user-attachments/assets/635f4f7d-645b-414b-a7fe-c9b2753350e6" />
+
+
+
+
 
